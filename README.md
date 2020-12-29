@@ -8,3 +8,5 @@ I read the proof and I'm not fully convinced, so I created a branch which includ
 Ok, I saw your counterexample picture. It is convincing me. Let's merge it to main. THen we look for the gap in my proof.  
 
 Just added a short dataset describing Math Induction with some detail. Maybe there is a hint what is wrong with the proof.
+
+Ok, I will check it.
