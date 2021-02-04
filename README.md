@@ -11,3 +11,4 @@ Ok, I will check it.
 
 Now I've got it. The Induction base isn't always 1, e.g. in proposition 2 to the n > 2 times n, where the induction base works with all numbers n > 3. In our Ouzo case it is maybe 3 or 4. Induction base will fail with all base numbers n > 4 and thus the whole proof. 
 Corollary: Be careful with Ouzo!
+This finishes our proof event
