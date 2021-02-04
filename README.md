@@ -1,5 +1,5 @@
-# Ouzo
-Proof that 20 glasses of Ouzo don't matter based on the principle of Mathematical Induction.
+# Ouzo 
+based on Mathematical Induction Proof that 20 glasses of Ouzo don't matter .
 
 I read the proof and I'm not fully convinced, so I created a branch which includes a picture as a counterexample.   
 
